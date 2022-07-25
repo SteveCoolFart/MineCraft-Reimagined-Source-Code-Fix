@@ -1,4 +1,4 @@
-#HOW TO COMPILE
+## HOW TO COMPILE
 
 Download Godot : https://godotengine.org/
 
